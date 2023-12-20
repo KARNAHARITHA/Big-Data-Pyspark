@@ -1,6 +1,7 @@
+### Business Research Question
 Our core objective is to create a predictive model for accurately estimating trip fare prices. By leveraging source and destination details, trip distance, historical extra charges, passenger count, and airport involvement, this solution aims to provide reliable fare predictions, benefiting both passengers and ride-sharing services.
 
-Business Value
+### Business Value
 Enhanced Ride-sharing Services:
 Accurate fare predictions empower ride-sharing services like yellow taxis to optimize pricing strategies, providing passengers with fair and competitive fares. This fosters customer loyalty and boosts service utilization.
 
